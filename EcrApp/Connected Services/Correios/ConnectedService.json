@@ -1,0 +1,29 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, Correios"
+    ],
+    "references": [
+      "EntityFramework, {EntityFramework, 6.4.4}",
+      "EntityFramework.SqlServer, {EntityFramework, 6.4.4}",
+      "System.CodeDom, {System.CodeDom, 4.7.0}",
+      "System.ComponentModel.Annotations, {System.ComponentModel.Annotations, 4.7.0}",
+      "System.Configuration.ConfigurationManager, {System.Configuration.ConfigurationManager, 4.7.0}",
+      "System.Data.SqlClient, {System.Data.SqlClient, 4.8.3}",
+      "System.Security.AccessControl, {System.Security.AccessControl, 4.7.0}",
+      "System.Security.Permissions, {System.Security.Permissions, 4.7.0}",
+      "System.Security.Principal.Windows, {System.Security.Principal.Windows, 4.7.0}",
+      "System.Windows.Extensions, {System.Windows.Extensions, 4.7.0}"
+    ],
+    "sync": true,
+    "targetFramework": "net6.0",
+    "typeReuseMode": "All"
+  }
+}
